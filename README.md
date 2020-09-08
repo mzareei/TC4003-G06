@@ -14,3 +14,4 @@ Hi! Here we will be uploading all the files, exercises and projects of the "Dist
 **Partial 01**
 * assigment1-1 (q1 and q2)
 * assigment1-2 (Map/Reduce)
+* assigment1-2 (Assignment 1)
