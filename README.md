@@ -18,3 +18,6 @@ Hi! Here we will be uploading all the files, exercises and projects of the "Dist
 
 **Partial 02**
 * assignment2 (Chandy-Lamport)
+
+**Partial 03**
+* assignment3-1 (Raft Leader Election)
